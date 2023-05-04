@@ -1,0 +1,39 @@
+ATOM      1  N   VAL A   1      11.009   2.661  48.464  1.00 10.00           N
+ATOM      2  CA  VAL A   1      10.415   3.985  48.550  1.00 10.00           C
+ATOM      3  C   VAL A   1      10.002   4.429  49.975  1.00 10.00           C
+ATOM      4  O   VAL A   1       9.312   3.707  50.680  1.00 10.00           O
+ATOM      5  CB  VAL A   1       9.230   4.107  47.566  1.00 10.00           C
+ATOM      6  CG1 VAL A   1       8.585   5.457  47.708  1.00 10.00           C
+ATOM      7  CG2 VAL A   1       9.689   3.877  46.132  1.00 10.00           C
+ATOM      8  OXT VAL A   1      10.377   5.639  50.362  1.00 10.00           O
+ATOM      9  H   VAL A   1      11.281   2.368  47.525  1.00 10.00           H
+ATOM     10  H2  VAL A   1      10.386   1.968  48.881  1.00 10.00           H
+ATOM     11  HA  VAL A   1      11.226   4.692  48.259  1.00 10.00           H
+ATOM     12  HB  VAL A   1       8.478   3.321  47.813  1.00 10.00           H
+ATOM     13 HG11 VAL A   1       7.729   5.545  46.997  1.00 10.00           H
+ATOM     14 HG12 VAL A   1       8.279   5.666  48.759  1.00 10.00           H
+ATOM     15 HG13 VAL A   1       9.319   6.287  47.584  1.00 10.00           H
+ATOM     16 HG21 VAL A   1       8.833   3.965  45.421  1.00 10.00           H
+ATOM     17 HG22 VAL A   1      10.527   4.557  45.853  1.00 10.00           H
+ATOM     18 HG23 VAL A   1      10.218   2.902  46.020  1.00 10.00           H
+ATOM     19  HXT VAL A   1      10.123   5.911  51.236  1.00 10.00           H
+CONECT    1    2    9   10
+CONECT    2    1    3    5   11
+CONECT    3    2    4    8
+CONECT    4    3
+CONECT    5    2    6    7   12
+CONECT    6    5   13   14   15
+CONECT    7    5   16   17   18
+CONECT    8    3   19
+CONECT    9    1
+CONECT   10    1
+CONECT   11    2
+CONECT   12    5
+CONECT   13    6
+CONECT   14    6
+CONECT   15    6
+CONECT   16    7
+CONECT   17    7
+CONECT   18    7
+CONECT   19    8
+END   
